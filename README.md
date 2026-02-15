@@ -1,4 +1,3 @@
-# mojtabapourkhanlar-portfolio
 This is a repository for data from Mojtaba Pourkhanlar's portfolio site.
 
-## mojtabapourkhanlar.ir
+## [Mojtaba Pourkhanlar](https://mojtabapourkhanlar.ir)
